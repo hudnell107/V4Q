@@ -1,0 +1,3 @@
+Private mode doesn't show the site you visited in the history
+You may want to use this mode so no one know what sites you've been visiting. Good for spying. 
+For testing you wouldn't have to see everything you clicked on. 
